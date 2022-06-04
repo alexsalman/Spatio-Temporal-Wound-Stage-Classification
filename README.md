@@ -63,9 +63,11 @@ See the following .ipynb files in this reposetory:
 
 
 ## Saliency_Maps
+#### 2D-CNN+LSTM Circle Crop
 ![2D-CNN+LSTM Circle Crop](https://github.com/alexsalman/CSE247/blob/main/Day%2014_Y8-4-L-VLC15%202dc%20(Saliency%20Maps).png)
 
-![3D-CNN Splint Crop](https://github.com/alexsalman/CSE247/blob/main/Day%2014_Y8-4-L-VLC15%202dc%20(Saliency%20Maps).png)
+#### 3D-CNN Splint Crop
+![3D-CNN Splint Crop](https://github.com/alexsalman/CSE247/blob/main/Day%2014_Y8-4-L-VLC15%203ds%20(Saliency%20Maps).png)
 
 ## Shell Commands
 Installing required packages
