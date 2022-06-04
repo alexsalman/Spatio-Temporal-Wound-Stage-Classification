@@ -1,7 +1,9 @@
 # Spatio-Temporal Wound Stage Classification
 
 UCSC CSE247 Master's Project
+
 **A project by [Alex Salman](mailto:aalsalma@ucsc.edu)**
+
 Last modified: June 3, 2022
 
 ## Project Description
@@ -9,4 +11,5 @@ With the increasing usage of neural networks and deep learning in the medical fi
 
 ## Dataset
 [Wound image dataset](https://datadryad.org/stash/dataset/doi:10.25338/B84W8Q)
+
 [Processed dataset repository](https://drive.google.com/drive/u/0/folders/1VRzXupLR9Xct_8Fuph-HqbAAj95qLnU4)
