@@ -5,7 +5,7 @@ University of California - Santa Cruz
 
 CSE247 Master's Project
 
-**A project by [Alex Salman](mailto:aalsalma@ucsc.edu)**
+**Student: [Alex Salman](mailto:aalsalma@ucsc.edu)**
 
 Last modified: June 3, 2022
 
