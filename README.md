@@ -1,6 +1,7 @@
 # Spatio-Temporal Wound Stage Classification
 
 University of California - Santa Cruz
+
 CSE247 Master's Project
 
 **A project by [Alex Salman](mailto:aalsalma@ucsc.edu)**
