@@ -26,6 +26,9 @@ With the increasing usage of neural networks and deep learning in the medical fi
 
 [Processed dataset repository](https://drive.google.com/drive/u/0/folders/1VRzXupLR9Xct_8Fuph-HqbAAj95qLnU4)
 
+## Labels
+Hemostasis, Inflammatory, Proliferative, and Maturation
+
 ## Models
 
 
