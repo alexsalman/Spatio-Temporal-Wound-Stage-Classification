@@ -59,7 +59,7 @@ See the following .ipynb files in this reposetory:
 ![Splint Crop](https://docs.google.com/drawings/d/e/2PACX-1vRmwjaPOJckupwg2_d52MeR5WIq6K3GUldA7pMhOTxhD-OLS9-n0IHRGpSDRIiE4Uiwfsq2_x8ef-Ha/pub?w=960&h=720)
 
 #### 3D-CNN (Circle Crops)
-![Circle Crop](https://docs.google.com/drawings/d/e/2PACX-1vQjat0K8lqkBh1NNLHGz04MjGGcLT21T9fBvm_OEVFefOtOmNRGdOXIWqalsh2iq2rNvx8EH1Finke9/pub?w=960&h=720)
+![Circle Crop](https://docs.google.com/drawings/d/e/2PACX-1vQR-P19NUnncIXaJenRzYhyfveCEreer0-5KAtdNlw08AD7HYCqZlwN_-uImzPFhFnTDs53LasNWebL/pub?w=960&h=720)
 
 
 ## Saliency_Maps
