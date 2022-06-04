@@ -9,7 +9,7 @@ CSE247 Master's Project
 Last modified: June 3, 2022
 
 ## Project Description
-With the increasing usage of neural networks and deep learning in the medical field, this work proposes an architecture for classifying wound healing stages of a series of wound images. We generate a series of consecutive wound image frames and feed them to a 2D convolutional neural network combined with long short-term memory unit and a 3D convolutional neural network to learn spatio-temporal features associated with the healing trajectory. We also visualize the saliency maps to identify features the model is extracting. Both models can extract visual features related to wound healing and have relatively high classification accuracy.
+This project proposes an architecture for classifying wound healing stages of a series of wound images. We generate a series of consecutive wound image frames and feed them to a 2D convolutional neural network combined with long short-term memory unit and a 3D convolutional neural network to learn spatio-temporal features associated with the healing trajectory. We also visualize the saliency maps to identify features the model is extracting. Both models can extract visual features related to wound healing and have relatively high classification accuracy.
 
 ## Project Features
 1. Generate videos from images using openCV
@@ -30,6 +30,9 @@ With the increasing usage of neural networks and deep learning in the medical fi
 Hemostasis, Inflammatory, Proliferative, and Maturation
 
 ## Models
+### 2D-CNN + LSTM
+
+### 3D-CNN
 
 
 ## Shell Commands
