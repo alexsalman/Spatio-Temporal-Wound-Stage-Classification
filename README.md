@@ -13,3 +13,9 @@ With the increasing usage of neural networks and deep learning in the medical fi
 [Wound image dataset](https://datadryad.org/stash/dataset/doi:10.25338/B84W8Q)
 
 [Processed dataset repository](https://drive.google.com/drive/u/0/folders/1VRzXupLR9Xct_8Fuph-HqbAAj95qLnU4)
+
+## Shell Commands
+Installing required packages
+``` bash
+pip3 install -r requirements.txt
+```
