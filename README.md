@@ -31,9 +31,13 @@ Hemostasis, Inflammatory, Proliferative, and Maturation
 
 ## Models
 See the following .ipynb files in this reposetory:
+
 [2D-CNN+LSTM for Splint Crop](https://github.com/alexsalman/CSE247/blob/59b6b42401ae36755659b7e4153a19035687fd48/2D_CNN%2BLSTM.ipynb)
+
 [2D-CNN+LSTM for Circle Crop](https://github.com/alexsalman/CSE247/blob/main/2D_CNN%2BLSTM_No_Splint.ipynb)
+
 [3D-CNN for Splint Crop](https://github.com/alexsalman/CSE247/blob/main/2D_CNN%2BLSTM_No_Splint.ipynb)
+
 [3D-CNN for Circle Crop](https://github.com/alexsalman/CSE247/blob/main/3D_CNN_No_Splint.ipynb)
 
 
