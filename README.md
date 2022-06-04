@@ -30,9 +30,10 @@ This project proposes an architecture for classifying wound healing stages of a 
 Hemostasis, Inflammatory, Proliferative, and Maturation
 
 ## Models
-### 2D-CNN + LSTM
+#### 2D-CNN + LSTM
+![alt text](https://docs.google.com/drawings/d/e/2PACX-1vQdkgRuHXucM3JMLDEOvPYQPYi01YQ4Lddb1g-UoocV0Fvvk4pkHDjMx5yq2h2FI_znZXz1X3apYf51/pub?w=960&h=720)
 
-### 3D-CNN
+#### 3D-CNN
 
 
 ## Shell Commands
