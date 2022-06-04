@@ -32,10 +32,16 @@ Hemostasis, Inflammatory, Proliferative, and Maturation
 ## Models
 #### 2D-CNN + LSTM (Splint Crops)
 ![Splint Crop](https://docs.google.com/drawings/d/e/2PACX-1vQdkgRuHXucM3JMLDEOvPYQPYi01YQ4Lddb1g-UoocV0Fvvk4pkHDjMx5yq2h2FI_znZXz1X3apYf51/pub?w=960&h=720)
+#### 2D-CNN + LSTM (Circle Crops)
 ![Circle Crop](https://docs.google.com/drawings/d/e/2PACX-1vQ_-M67AUWv4VgNnrYJWyl1xsY5DF3g_vMOojR_i0QE1rG420eBksqkTKEhXV4O0EttxFG1id2NOBKC/pub?w=960&h=720)
 
 
-#### 3D-CNN
+
+#### 3D-CNN (Splint Crops)
+![Splint Crop](https://docs.google.com/drawings/d/e/2PACX-1vRmwjaPOJckupwg2_d52MeR5WIq6K3GUldA7pMhOTxhD-OLS9-n0IHRGpSDRIiE4Uiwfsq2_x8ef-Ha/pub?w=960&h=720)
+#### 3D-CNN (Circle Crops)
+![Circle Crop](https://docs.google.com/drawings/d/e/2PACX-1vQjat0K8lqkBh1NNLHGz04MjGGcLT21T9fBvm_OEVFefOtOmNRGdOXIWqalsh2iq2rNvx8EH1Finke9/pub?w=960&h=720)
+
 
 
 ## Shell Commands
