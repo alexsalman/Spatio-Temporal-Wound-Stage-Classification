@@ -1,12 +1,11 @@
 # Spatio-Temporal Wound Stage Classification
-[Alex Salman](mailto:aalsalma@ucsc.edu)**
 ![IEEE Conference Poster](bhi-bsn22-Spatio-Temporal-Wound-Stage-Classification-poster.pdf)
 
 University of California - Santa Cruz
 
 CSE247 Master's Project
 
-**Student: [Alex Salman](mailto:aalsalma@ucsc.edu)**
+**Student: [Alex Salman]((https://www.linkedin.com/in/alex-salman/)**
 
 Last modified: June 3, 2022
 
