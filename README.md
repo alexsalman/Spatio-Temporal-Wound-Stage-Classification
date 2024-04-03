@@ -3,8 +3,6 @@
 
 University of California - Santa Cruz
 
-CSE247 Master's Project
-
 **Student: [Alex Salman](https://www.linkedin.com/in/alex-salman/)**
 
 Last modified: June 3, 2022
