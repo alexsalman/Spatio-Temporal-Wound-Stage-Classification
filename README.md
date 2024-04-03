@@ -1,5 +1,6 @@
 # Spatio-Temporal Wound Stage Classification
-![Framework](bhi-bsn22-Spatio-Temporal-Wound-Stage-Classification-poster.pdf)
+[Alex Salman](mailto:aalsalma@ucsc.edu)**
+![IEEE Conference Poster](bhi-bsn22-Spatio-Temporal-Wound-Stage-Classification-poster.pdf)
 
 University of California - Santa Cruz
 
