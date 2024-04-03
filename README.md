@@ -1,5 +1,5 @@
 # Spatio-Temporal Wound Stage Classification
-
+![Framework](bhi-bsn22-Spatio-Temporal-Wound-Stage-Classification-poster.pdf)
 
 University of California - Santa Cruz
 
